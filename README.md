@@ -2,7 +2,7 @@
 ## A curated list of paths to accredited college learning & degrees (mostly) by examination
 ---
 ### DEGREE LEARNING PLANS
-- A.S. in Business & B.S. in Biology
+- [A.S. in Business & B.S. in Biology](#as-in-business--bs-in-biology)
 
 ### A.S. in Business & B.S. in Biology
 #### Phase I – Associate of Science in Business
@@ -11,7 +11,7 @@
 
 - Excelsior College online course – Information Literacy [1 credit]
 -  UExcel exam – English Composition [6 credits]
--  CLEP exam – American Literature [6 credits]
+-  [CLEP exam – American Literature](https://clep.collegeboard.org/composition-and-literature/american-literature) [6 credits]
 
 #### History & Social Sciences
 
